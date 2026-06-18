@@ -43,4 +43,5 @@ The dashboard provides insights into:
 
 ## Files
 
-<img width="585" height="540" alt="Dashboard_Screenshot" src="https://github.com/user-attachments/assets/621a209f-9774-4ccb-86fb-838234f07008" />
+<img width="573" height="516" alt="Dashboard_Screenshot" src="https://github.com/user-attachments/assets/73d0a472-8ced-4212-85ef-89ed2a5d3c04" />
+
